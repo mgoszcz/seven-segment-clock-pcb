@@ -1,0 +1,14 @@
+Pour Copper Report
+------------------
+
+Report Written:     Thursday, August 31, 2023
+Project Path:       D:\Elektronika\PCB\7seg_clock\display\7seg_display.prj
+Design Path:        D:\Elektronika\PCB\7seg_clock\display\display.pcb
+Design Title:       
+Created:            03.08.2023 22:01:33
+Last Saved:         31.08.2023 21:45:07
+Editing Time:       1437 min
+Units:              thou (precision 0)
+
+
+End Of Report.

@@ -1,0 +1,21 @@
+Forward Design Changes Report
+-----------------------------
+
+Report Written:     Sunday, October 15, 2023
+Project Path:       D:\Elektronika\PCB\7seg_clock\display\7seg_display.prj
+Design Path:        D:\Elektronika\PCB\7seg_clock\display\display.pcb
+Design Title:       
+Created:            03.08.2023 22:01:33
+Last Saved:         31.08.2023 16:57:20
+Editing Time:       1154 min
+Units:              thou (precision 0)
+
+Changed component reference "R78" from component "Resistor", package "DSC" to component "Resistor", package "SM".
+Changed component reference "R79" from component "Resistor", package "DSC" to component "Resistor", package "SM".
+Changed component reference "R80" from component "Resistor", package "DSC" to component "Resistor", package "SM".
+Changed component reference "R81" from component "Resistor", package "DSC" to component "Resistor", package "SM".
+Changed component reference "R82" from component "Resistor", package "DSC" to component "Resistor", package "SM".
+Changed component reference "R83" from component "Resistor", package "DSC" to component "Resistor", package "SM".
+
+
+End Of Report.

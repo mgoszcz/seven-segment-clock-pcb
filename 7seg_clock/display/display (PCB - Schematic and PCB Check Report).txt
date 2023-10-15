@@ -1,0 +1,18 @@
+Schematic and PCB Check Report
+------------------------------
+
+Report Written:     Sunday, October 15, 2023
+Project Path:       D:\Elektronika\PCB\7seg_clock\display\7seg_display.prj
+Design Path:        D:\Elektronika\PCB\7seg_clock\display\display.pcb
+Design Title:       
+Created:            03.08.2023 22:01:33
+Last Saved:         31.08.2023 16:57:20
+Editing Time:       1154 min
+Units:              thou (precision 0)
+
+
+Checking integrity of Schematic "D:\Elektronika\PCB\7seg_clock\display\display.sch" with PCB "D:\Elektronika\PCB\7seg_clock\display\display.pcb"
+================================================================================================================================================
+
+
+End Of Report.

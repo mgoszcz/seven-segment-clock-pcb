@@ -1,0 +1,327 @@
+Design Rule Check Report
+------------------------
+
+Report Written:     Wednesday, August 30, 2023
+Project Path:       D:\Elektronika\PCB\7seg_clock\display\7seg_display.prj
+Design Path:        D:\Elektronika\PCB\7seg_clock\display\display.pcb
+Design Title:       
+Created:            03.08.2023 22:01:33
+Last Saved:         22.08.2023 23:44:35
+Editing Time:       1006 min
+Units:              thou (precision 0)
+
+
+Results
+=======
+
+Track to Pad Error (T-P) between (17525 8510) and (17525 8500) on Layer "Bottom Copper".
+    Error between Component Pad R18.1 (Net 'ANODE_SU') and Track (Net 'ANODE_SD'), Gap is 0 needs to be 15.
+Track to Pad Error (T-P) between (19020 10500) and (19000 10500) on Layer "Bottom Copper".
+    Error between Component Pad J1.1 (Net 'N0150') and Track (Net 'N0139'), Gap is 8 needs to be 15.
+Track to Pad Error (T-P) between (19029 10279) and (19013 10263) on Layer "Bottom Copper".
+    Error between Component Pad J1.3 (Net 'N0138') and Track (Net 'N0137'), Gap is 11 needs to be 15.
+Component to Component Error (Cm-Cm) between (10250 11400) and (10250 10915) on Layer "[Top]".
+    LED1 - R39, Gap is 0.
+Component to Component Error (Cm-Cm) between (11150 10235) and (10625 10235) on Layer "[Top]".
+    LED1 - R45, Gap is 0.
+Component to Component Error (Cm-Cm) between (10375 11400) and (10375 10865) on Layer "[Top]".
+    LED1 - R40, Gap is 0.
+Component to Component Error (Cm-Cm) between (10500 11400) and (10500 10965) on Layer "[Top]".
+    LED1 - R38, Gap is 0.
+Component to Component Error (Cm-Cm) between (10475 9200) and (10475 9635) on Layer "[Top]".
+    LED1 - R43, Gap is 0.
+Component to Component Error (Cm-Cm) between (11150 10285) and (10800 10285) on Layer "[Top]".
+    LED1 - R44, Gap is 0.
+Component to Component Error (Cm-Cm) between (10275 9200) and (10275 9735) on Layer "[Top]".
+    LED1 - R42, Gap is 0.
+Component to Component Error (Cm-Cm) between (9650 9785) and (10100 9785) on Layer "[Top]".
+    LED1 - R41, Gap is 0.
+Component to Component Error (Cm-Cm) between (15225 10010) and (15175 10010) on Layer "[Top]".
+    R28 - LED5, Gap is 0.
+Component to Component Error (Cm-Cm) between (11750 10010) and (11700 10010) on Layer "[Top]".
+    R27 - LED3, Gap is 0.
+Component to Component Error (Cm-Cm) between (16275 9635) and (16675 9635) on Layer "[Top]".
+    R64 - LED5, Gap is 0.
+Component to Component Error (Cm-Cm) between (17525 9635) and (17525 9200) on Layer "[Top]".
+    R72 - LED6, Gap is 0.
+Component to Component Error (Cm-Cm) between (14050 9635) and (14050 9200) on Layer "[Top]".
+    R56 - LED4, Gap is 0.
+Component to Component Error (Cm-Cm) between (12800 9635) and (13200 9635) on Layer "[Top]".
+    R48 - LED3, Gap is 0.
+Component to Component Error (Cm-Cm) between (8725 11400) and (8725 10915) on Layer "[Top]".
+    LED2 - R35, Gap is 0.
+Component to Component Error (Cm-Cm) between (8850 11400) and (8850 10865) on Layer "[Top]".
+    LED2 - R34, Gap is 0.
+Component to Component Error (Cm-Cm) between (9625 10235) and (9100 10235) on Layer "[Top]".
+    LED2 - R19, Gap is 0.
+Component to Component Error (Cm-Cm) between (8975 11400) and (8975 10965) on Layer "[Top]".
+    LED2 - R36, Gap is 0.
+Component to Component Error (Cm-Cm) between (8725 9200) and (8725 9735) on Layer "[Top]".
+    LED2 - R32, Gap is 0.
+Component to Component Error (Cm-Cm) between (9625 10285) and (9275 10285) on Layer "[Top]".
+    LED2 - R30, Gap is 0.
+Component to Component Error (Cm-Cm) between (8925 9200) and (8925 9635) on Layer "[Top]".
+    LED2 - R31, Gap is 0.
+Component to Component Error (Cm-Cm) between (8125 9785) and (8550 9785) on Layer "[Top]".
+    LED2 - R33, Gap is 0.
+Component to Component Error (Cm-Cm) between (13850 9735) and (13850 9200) on Layer "[Top]".
+    R57 - LED4, Gap is 0.
+Component to Component Error (Cm-Cm) between (15975 9735) and (15975 9200) on Layer "[Top]".
+    R65 - LED5, Gap is 0.
+Component to Component Error (Cm-Cm) between (17325 9735) and (17325 9200) on Layer "[Top]".
+    R73 - LED6, Gap is 0.
+Component to Component Error (Cm-Cm) between (12500 9735) and (12500 9200) on Layer "[Top]".
+    R49 - LED3, Gap is 0.
+Component to Component Error (Cm-Cm) between (17225 10385) and (16700 10385) on Layer "[Top]".
+    R75 - LED6, Gap is 0.
+Component to Component Error (Cm-Cm) between (17100 10435) and (16700 10435) on Layer "[Top]".
+    R76 - LED6, Gap is 0.
+Component to Component Error (Cm-Cm) between (15975 10865) and (15975 11400) on Layer "[Top]".
+    R67 - LED5, Gap is 0.
+Component to Component Error (Cm-Cm) between (16100 11400) and (16100 10965) on Layer "[Top]".
+    LED5 - R69, Gap is 0.
+Component to Component Error (Cm-Cm) between (15850 11400) and (15850 10915) on Layer "[Top]".
+    LED5 - R68, Gap is 0.
+Component to Component Error (Cm-Cm) between (16675 10235) and (16225 10235) on Layer "[Top]".
+    LED5 - R62, Gap is 0.
+Component to Component Error (Cm-Cm) between (15800 9200) and (15800 9785) on Layer "[Top]".
+    LED5 - R66, Gap is 0.
+Component to Component Error (Cm-Cm) between (16675 10285) and (16400 10285) on Layer "[Top]".
+    LED5 - R63, Gap is 0.
+Component to Component Error (Cm-Cm) between (17575 10235) and (18200 10235) on Layer "[Top]".
+    R70 - LED6, Gap is 0.
+Component to Component Error (Cm-Cm) between (17450 10965) and (17450 11400) on Layer "[Top]".
+    R77 - LED6, Gap is 0.
+Component to Component Error (Cm-Cm) between (16700 9785) and (17150 9785) on Layer "[Top]".
+    LED6 - R74, Gap is 0.
+Component to Component Error (Cm-Cm) between (18200 10285) and (17750 10285) on Layer "[Top]".
+    LED6 - R71, Gap is 0.
+Component to Component Error (Cm-Cm) between (12625 10965) and (12625 11400) on Layer "[Top]".
+    R53 - LED3, Gap is 0.
+Component to Component Error (Cm-Cm) between (12750 10235) and (13200 10235) on Layer "[Top]".
+    R46 - LED3, Gap is 0.
+Component to Component Error (Cm-Cm) between (12325 9785) and (12325 9200) on Layer "[Top]".
+    R50 - LED3, Gap is 0.
+Component to Component Error (Cm-Cm) between (13675 9785) and (13225 9785) on Layer "[Top]".
+    R58 - LED4, Gap is 0.
+Component to Component Error (Cm-Cm) between (14075 11400) and (14075 10965) on Layer "[Top]".
+    LED4 - R61, Gap is 0.
+Component to Component Error (Cm-Cm) between (13825 11400) and (13825 10915) on Layer "[Top]".
+    LED4 - R60, Gap is 0.
+Component to Component Error (Cm-Cm) between (13950 11400) and (13950 10865) on Layer "[Top]".
+    LED4 - R59, Gap is 0.
+Component to Component Error (Cm-Cm) between (14725 10235) and (14200 10235) on Layer "[Top]".
+    LED4 - R54, Gap is 0.
+Component to Component Error (Cm-Cm) between (14725 10285) and (14375 10285) on Layer "[Top]".
+    LED4 - R55, Gap is 0.
+Component to Component Error (Cm-Cm) between (12375 10915) and (12375 11400) on Layer "[Top]".
+    R52 - LED3, Gap is 0.
+Component to Component Error (Cm-Cm) between (12500 10865) and (12500 11400) on Layer "[Top]".
+    R51 - LED3, Gap is 0.
+Component to Component Error (Cm-Cm) between (13200 10285) and (12925 10285) on Layer "[Top]".
+    LED3 - R47, Gap is 0.
+Component to Component error (Cm-Cm) at (10415 8889) on layer "[Bottom]".
+    R1 - R3, Gap is 0.
+Component to Component error (Cm-Cm) at (10300 8889) on layer "[Bottom]".
+    Q1 - R3, Gap is 0.
+Component to Component error (Cm-Cm) at (10160 10435) on layer "[Bottom]".
+    LED1 - R39, Gap is 0.
+Component to Component Error (Cm-Cm) between (10640 10235) and (10615 10235) on Layer "[Bottom]".
+    LED1 - R45, Gap is 0.
+Component to Component Error (Cm-Cm) between (10160 10385) and (10285 10385) on Layer "[Bottom]".
+    LED1 - R40, Gap is 0.
+Component to Component Error (Cm-Cm) between (10640 10485) and (10490 10485) on Layer "[Bottom]".
+    LED1 - R38, Gap is 0.
+Component to Component Error (Cm-Cm) between (10640 9635) and (10565 9635) on Layer "[Bottom]".
+    LED1 - R43, Gap is 0.
+Component to Component Error (Cm-Cm) between (10160 9735) and (10285 9735) on Layer "[Bottom]".
+    LED1 - R42, Gap is 0.
+Component to Component error (Cm-Cm) at (10160 9785) on layer "[Bottom]".
+    LED1 - R41, Gap is 0.
+Component to Component error (Cm-Cm) at (10532 8765) on layer "[Bottom]".
+    R3 - R2, Gap is 0.
+Component to Component error (Cm-Cm) at (14107 8765) on layer "[Bottom]".
+    R10 - R12, Gap is 0.
+Component to Component error (Cm-Cm) at (13875 8889) on layer "[Bottom]".
+    Q4 - R12, Gap is 0.
+Component to Component error (Cm-Cm) at (13990 8889) on layer "[Bottom]".
+    R12 - R11, Gap is 0.
+Component to Component error (Cm-Cm) at (16057 8765) on layer "[Bottom]".
+    R13 - R14, Gap is 0.
+Component to Component error (Cm-Cm) at (15825 8889) on layer "[Bottom]".
+    R14 - Q5, Gap is 0.
+Component to Component error (Cm-Cm) at (15940 8889) on layer "[Bottom]".
+    R14 - R15, Gap is 0.
+Component to Component error (Cm-Cm) at (17350 8889) on layer "[Bottom]".
+    Q6 - R18, Gap is 0.
+Component to Component error (Cm-Cm) at (17582 8765) on layer "[Bottom]".
+    R16 - R18, Gap is 0.
+Component to Component error (Cm-Cm) at (17465 8889) on layer "[Bottom]".
+    R18 - R17, Gap is 0.
+Component to Component Error (Cm-Cm) between (17615 9635) and (17690 9635) on Layer "[Bottom]".
+    R72 - LED6, Gap is 0.
+Component to Component Error (Cm-Cm) between (14140 9635) and (14215 9635) on Layer "[Bottom]".
+    R56 - LED4, Gap is 0.
+Component to Component error (Cm-Cm) at (8635 10435) on layer "[Bottom]".
+    LED2 - R35, Gap is 0.
+Component to Component Error (Cm-Cm) between (8635 10385) and (8760 10385) on Layer "[Bottom]".
+    LED2 - R34, Gap is 0.
+Component to Component Error (Cm-Cm) between (9115 10235) and (9090 10235) on Layer "[Bottom]".
+    LED2 - R19, Gap is 0.
+Component to Component Error (Cm-Cm) between (9115 10485) and (8965 10485) on Layer "[Bottom]".
+    LED2 - R36, Gap is 0.
+Component to Component Error (Cm-Cm) between (8635 9735) and (8735 9735) on Layer "[Bottom]".
+    LED2 - R32, Gap is 0.
+Component to Component Error (Cm-Cm) between (9115 9635) and (9015 9635) on Layer "[Bottom]".
+    LED2 - R31, Gap is 0.
+Component to Component error (Cm-Cm) at (8635 9785) on layer "[Bottom]".
+    LED2 - R33, Gap is 0.
+Component to Component error (Cm-Cm) at (9007 8765) on layer "[Bottom]".
+    R5 - R4, Gap is 0.
+Component to Component error (Cm-Cm) at (8775 8889) on layer "[Bottom]".
+    R5 - Q2, Gap is 0.
+Component to Component error (Cm-Cm) at (8890 8889) on layer "[Bottom]".
+    R5 - R6, Gap is 0.
+Component to Component Error (Cm-Cm) between (13860 9735) and (13735 9735) on Layer "[Bottom]".
+    R57 - LED4, Gap is 0.
+Component to Component Error (Cm-Cm) between (16065 9735) and (16165 9735) on Layer "[Bottom]".
+    R65 - LED5, Gap is 0.
+Component to Component Error (Cm-Cm) between (17335 9735) and (17210 9735) on Layer "[Bottom]".
+    R73 - LED6, Gap is 0.
+Component to Component Error (Cm-Cm) between (12590 9735) and (12690 9735) on Layer "[Bottom]".
+    R49 - LED3, Gap is 0.
+Component to Component Error (Cm-Cm) between (17235 10385) and (17210 10385) on Layer "[Bottom]".
+    R75 - LED6, Gap is 0.
+Component to Component Error (Cm-Cm) between (15965 10385) and (16165 10385) on Layer "[Bottom]".
+    R67 - LED5, Gap is 0.
+Component to Component Error (Cm-Cm) between (16165 10485) and (16090 10485) on Layer "[Bottom]".
+    LED5 - R69, Gap is 0.
+Component to Component Error (Cm-Cm) between (15685 10435) and (15760 10435) on Layer "[Bottom]".
+    LED5 - R68, Gap is 0.
+Component to Component error (Cm-Cm) at (16165 10235) on layer "[Bottom]".
+    LED5 - R62, Gap is 0.
+Component to Component Error (Cm-Cm) between (15685 9785) and (15810 9785) on Layer "[Bottom]".
+    LED5 - R66, Gap is 0.
+Component to Component Error (Cm-Cm) between (17565 10235) and (17690 10235) on Layer "[Bottom]".
+    R70 - LED6, Gap is 0.
+Component to Component Error (Cm-Cm) between (17360 10485) and (17210 10485) on Layer "[Bottom]".
+    R77 - LED6, Gap is 0.
+Component to Component error (Cm-Cm) at (17210 9785) on layer "[Bottom]".
+    LED6 - R74, Gap is 0.
+Component to Component error (Cm-Cm) at (17690 10285) on layer "[Bottom]".
+    LED6 - R71, Gap is 0.
+Component to Component Error (Cm-Cm) between (12615 10485) and (12690 10485) on Layer "[Bottom]".
+    R53 - LED3, Gap is 0.
+Component to Component error (Cm-Cm) at (12350 8889) on layer "[Bottom]".
+    Q3 - R9, Gap is 0.
+Component to Component error (Cm-Cm) at (12690 10235) on layer "[Bottom]".
+    R46 - LED3, Gap is 0.
+Component to Component error (Cm-Cm) at (12582 8757) on layer "[Bottom]".
+    R9 - R7, Gap is 0.
+Component to Component error (Cm-Cm) at (12465 8889) on layer "[Bottom]".
+    R9 - R8, Gap is 0.
+Component to Component Error (Cm-Cm) between (12335 9785) and (12210 9785) on Layer "[Bottom]".
+    R50 - LED3, Gap is 0.
+Component to Component error (Cm-Cm) at (13735 9785) on layer "[Bottom]".
+    R58 - LED4, Gap is 0.
+Component to Component Error (Cm-Cm) between (14215 10485) and (14065 10485) on Layer "[Bottom]".
+    LED4 - R61, Gap is 0.
+Component to Component error (Cm-Cm) at (13735 10435) on layer "[Bottom]".
+    LED4 - R60, Gap is 0.
+Component to Component Error (Cm-Cm) between (13735 10385) and (13860 10385) on Layer "[Bottom]".
+    LED4 - R59, Gap is 0.
+Component to Component Error (Cm-Cm) between (14215 10235) and (14190 10235) on Layer "[Bottom]".
+    LED4 - R54, Gap is 0.
+Component to Component Error (Cm-Cm) between (12285 10435) and (12210 10435) on Layer "[Bottom]".
+    R52 - LED3, Gap is 0.
+Component to Component Error (Cm-Cm) between (12490 10385) and (12690 10385) on Layer "[Bottom]".
+    R51 - LED3, Gap is 0.
+Gap in Net "GND" between (18393,9835) and (18393,9985) 
+    GND.
+Gap in Net "GND" between (18393,9985) and (18393,10135) 
+    GND.
+Gap in Net "GND" between (18393,10135) and (18393,10285) 
+    GND.
+Gap in Net "GND" between (18393,10285) and (18393,10435) 
+    GND.
+Gap in Net "GND" between (18393,10435) and (18393,10585) 
+    GND.
+Gap in Net "GND" between (18393,10585) and (18393,10735) 
+    GND.
+Gap in Net "GND" between (18393,9835) and (18393,9685) 
+    GND.
+Gap in Net "GND" between (18393,10735) and (18391,10885) 
+    GND.
+Gap in Net "GND" between (18393,10735) and (19075,10800) 
+    GND.
+Gap in Net "GND" between (18393,9685) and (17232,8990) 
+    GND.
+Gap in Net "GND" between (17232,8990) and (15707,8990) 
+    GND.
+Gap in Net "GND" between (15707,8990) and (13757,8990) 
+    GND.
+Gap in Net "GND" between (13757,8990) and (12232,8990) 
+    GND.
+Gap in Net "GND" between (12232,8990) and (10182,8990) 
+    GND.
+Gap in Net "GND" between (10182,8990) and (8657,8990) 
+    GND.
+Gap in Net "N0059" between (18075,10025) and (17825,9975) 
+    N0059.
+Gap in Net "N0061" between (18075,10175) and (17825,10075) 
+    N0061.
+Gap in Net "N0063" between (18075,10325) and (17825,10175) 
+    N0063.
+Dangling Track from (10175,9350) to (10200,9350) on layer Bottom Copper
+Dangling Track from (18833,9734) to (18817,9750) on layer Bottom Copper
+
+Number of errors found : 131
+
+
+Settings
+========
+
+
+Spacings
+
+=========
+
+Tracks        Yes
+Pads and Vias Yes
+Shapes        Yes
+Text          Yes
+Board         Yes
+Drills        Yes
+Components    Yes
+
+
+Manufacturing
+
+==============
+
+Drill Breakout                  No
+Drill Backoff                   No
+Silkscreen Overlap              No
+Copper Text In Board            No
+Min Track Width                 No
+Min Annular Ring                No
+Min Paste Size                  No
+Vias In Pads                    No
+Unplated Vias                   No
+Unplated Pads With Inner Tracks No
+
+
+Nets
+
+=====
+
+Net Completion               Yes
+Dangling Tracks              Yes
+Net Track Length Differences No
+Nets without Components      No
+Nets on No Connect pins      No
+Nets on No Connect pins      No
+
+
+
+End Of Report.
